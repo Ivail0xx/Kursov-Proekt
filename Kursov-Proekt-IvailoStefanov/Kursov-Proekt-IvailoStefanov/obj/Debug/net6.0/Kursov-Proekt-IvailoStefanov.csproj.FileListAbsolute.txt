@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Kursov-Proekt-IvailoStefanov\Kursov-Proekt-IvailoStefanov\obj\Debug\net6.0\Kursov-Proekt-IvailoStefanov.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Kursov-Proekt-IvailoStefanov\Kursov-Proekt-IvailoStefanov\obj\Debug\net6.0\Kursov-Proekt-IvailoStefanov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Kursov-Proekt-IvailoStefanov\Kursov-Proekt-IvailoStefanov\obj\Debug\net6.0\Kursov-Proekt-IvailoStefanov.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Kursov-Proekt-IvailoStefanov\Kursov-Proekt-IvailoStefanov\obj\Debug\net6.0\Kursov-Proekt-IvailoStefanov.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Kursov-Proekt-IvailoStefanov\Kursov-Proekt-IvailoStefanov\obj\Debug\net6.0\Kursov-Proekt-IvailoStefanov.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Kursov-Proekt-IvailoStefanov\Kursov-Proekt-IvailoStefanov\obj\Debug\net6.0\Kursov-Proekt-IvailoStefanov.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\Kursov-Proekt-IvailoStefanov\Kursov-Proekt-IvailoStefanov\obj\Debug\net6.0\Kursov-Proekt-IvailoStefanov.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\Kursov-Proekt-IvailoStefanov\Kursov-Proekt-IvailoStefanov\obj\Debug\net6.0\Kursov-Proekt-IvailoStefanov.RazorAssemblyInfo.cs
